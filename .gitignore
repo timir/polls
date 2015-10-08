@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+myvenv
+polls.db
+/static
+.DS_Store
